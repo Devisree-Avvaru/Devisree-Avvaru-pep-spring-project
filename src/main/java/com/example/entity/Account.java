@@ -9,6 +9,7 @@ import javax.persistence.*;
  */
 @Entity
 @Table(name="account")
+
 public class Account {
     /**
      * An id for this Account. You should use this as the Entity's ID.
